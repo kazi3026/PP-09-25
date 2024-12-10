@@ -1,0 +1,61 @@
+iPhone 15 pro
+1000
+145000.0
+iPhone 13
+500
+13000.0
+iPhone 16 pro
+300
+170000.0
+Realme c55
+1200
+17999.0
+Realme 12x 5g
+3000
+21000.0
+Realme C67
+5000
+23000.0
+Oppo reno 8
+6500
+34000.0
+Oppo Reno 10
+5000
+49000.0
+Oppo a60
+2000
+21700.0
+One Plus 8 pro
+3500
+94990.0
+OnePlus Nord CE 5g
+400
+34990.0
+Pixel 7
+4994
+43500.0
+Pixel 6A
+30000
+36500.0
+Huawei P30 pro
+6000
+89999.0
+Huawei Pura 70 ultra
+1392
+140000.0
+Samsung a55
+3000
+73999.0
+Samsung a35
+2000
+23500.0
+Samsung s24
+5000
+103500.0
+Tecno spark go 1
+1000
+9900.0
+Tecno spark 20 pro
+5000
+26999.0
+
